@@ -1,8 +1,0 @@
-D:\Documents\C#\Target\App2\App2\bin\Debug\App2.exe.config
-D:\Documents\C#\Target\App2\App2\bin\Debug\App2.exe
-D:\Documents\C#\Target\App2\App2\bin\Debug\App2.pdb
-D:\Documents\C#\Target\App2\App2\obj\Debug\App2.csproj.AssemblyReference.cache
-D:\Documents\C#\Target\App2\App2\obj\Debug\App2.csproj.SuggestedBindingRedirects.cache
-D:\Documents\C#\Target\App2\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
-D:\Documents\C#\Target\App2\App2\obj\Debug\App2.exe
-D:\Documents\C#\Target\App2\App2\obj\Debug\App2.pdb
